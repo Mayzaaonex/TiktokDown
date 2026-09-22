@@ -1,0 +1,37 @@
+{
+  "name": "sstik-scraper",
+  "version": "1.0.0",
+  "description": "TikTok video downloader without watermark - scrape ssstik.io and upload to Uguu.se",
+  "main": "sstik.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node sstik.js",
+    "test": "node sstik.js \"https://vt.tiktok.com/ZSqECbYqS/\""
+  },
+  "bin": {
+    "sstik": "./sstik.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "tiktok",
+    "downloader",
+    "ssstik",
+    "scraper",
+    "no-watermark",
+    "uguu",
+    "video-downloader"
+  ],
+  "author": "Mayzaa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/sstik-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/sstik-scraper/issues"
+  },
+  "homepage": "https://github.com/username/sstik-scraper#readme",
+  "dependencies": {}
+}
