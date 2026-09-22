@@ -27,11 +27,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/sstik-scraper.git"
+    "url": "https://github.com/Mayzaaonex/TiktokDown.git"
   },
   "bugs": {
-    "url": "https://github.com/username/sstik-scraper/issues"
+    "url": "https://github.com/Mayzaaonex/TiktokDown/issues"
   },
-  "homepage": "https://github.com/username/sstik-scraper#readme",
+  "homepage": "https://github.com/Mayzaaonex/TiktokDown#readme",
   "dependencies": {}
 }
